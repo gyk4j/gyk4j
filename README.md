@@ -2,24 +2,28 @@ Old-time developer who have learned many programming languages and technologies 
 remember every single detail, syntax, runtime library API call since the eon of time. And far too many to become
 proficient in all of them.
 
-As a traditionalist, fundamentalist and strict adherent trained in the classical school of Object-Oriented Programming (OOP), 
-I have spent a lifetime with ☕ Java since its beginning, which explains my unhealthy fascination and tendency for studying 
-and thinking about 📚 *GoF Design Pattern* despite its obsolescence by the 🎛️ *Inversion of Control*.
+As a traditionalist trained in the classical school of *Object-Oriented Programming (OOP)*, 
+I have spent a lifetime with ☕ **Java** since its beginning, which explains my unhealthy fascination with 📚 
+*GoF Design Pattern* &mdash; despite its obsolescence by the 🎛️ *Inversion of Control* &mdash; and tendency for 
+over-engineering to make software modular, reusable and extensible. 
 
-The focus on 🌉 *cross-platform development* is also a core belief of mine to avoid 🔓 vendor lock-in.
+However, new Java language features in recent years that break the original design rules, and the shortcomings of JVM, 
+have caused me to explore newer technologies like Golang.
 
-I also had a few jobs that took me to the Microsoft's world of C#, .NET and ASP.NET.
+A strict adherent of 🌉 *cross-platform development* to avoid unnecessary 🔓 vendor lock-in.
+
+I also had a few jobs that took me to the Microsoft's world of **C#, .NET and ASP.NET**.
 
 In my free time, I can be found tending to my repositories on GitHub with tender loving care, savouring tech 
 videos on Linux and DevOps. 
 📺 I am a big fan of: 
-- [NetworkChuck](https://www.youtube.com/@NetworkChuck) 
-- [Jeff Geerling](https://www.youtube.com/@JeffGeerling) 
-- [Jay LaCroix](https://www.youtube.com/@LearnLinuxTV) 
-- [Nana Janashia](https://www.youtube.com/@TechWorldwithNana) 
-- [Wolfgang](https://www.youtube.com/@WolfgangsChannel) 
-- [Christian Lempa](https://www.youtube.com/@christianlempa) 
-- [Michael Horn](http://www.youtube.com/@MichaelNROH)
+[NetworkChuck](https://www.youtube.com/@NetworkChuck), 
+[Jeff Geerling](https://www.youtube.com/@JeffGeerling), 
+[Jay LaCroix](https://www.youtube.com/@LearnLinuxTV), 
+[Nana Janashia](https://www.youtube.com/@TechWorldwithNana), 
+[Wolfgang](https://www.youtube.com/@WolfgangsChannel), 
+[Christian Lempa](https://www.youtube.com/@christianlempa) and  
+[Michael Horn](http://www.youtube.com/@MichaelNROH).
 
 <!--
 ### Hi there 👋
