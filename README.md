@@ -1,9 +1,13 @@
 # Versatile full-stack developer
-- Oracle Certified Java SE 8 Associate/11 Developer and AWS Certified Solutions Architect/Developer/SysOps Associate
-- Able to develop for common programming including *Java*, *C#*, *Python*, *JavaScript/Node.js* and to lesser extent *C/C++*
-- Able to produce software artifacts from frontend *web apps* and *mobile apps*, to backend *RESTful micro-services* and traditional *SOAP web services* and rich *desktop apps*
-- Experience with using popular frameworks e.g. *Spring Framework*, *Spring Boot*, *ASP.NET*, *Express*
-- Developed software for platforms including *Windows/Linux desktop*, *Android* mobile devices, Web and *Sony PlayStation&reg; 3* video game console
+
+| Certifications                                | Programming Languages | Software Artifacts     | Frameworks       | OS/Platforms            |
+|-----------------------------------------------|-----------------------|------------------------|------------------|-------------------------|
+| Oracle Certified Java SE 8 Associate          | Java                  | Web Apps               | Spring Framework | Windows Desktop         |
+| Oracle Certified Java SE 11 Developer         | C#                    | Mobile Apps            | Spring Boot      | Linux Desktop           |
+| AWS Certified Solutions Architect, Associate  | JavaScript            | RESTful micro-services | ASP.NET          | Android                 |
+| AWS Certified Developer, Associate            | Python                | SOAP web services      |                  | Web                     |
+| AWS Certified SysOps Administrator, Associate | PHP                   | Desktop Apps           |                  | Sony PlayStation 3&reg; |
+| AWS Certified Cloud Practitioner, Foundation  |                       |                        |                  |                         |
 
 In my free time, I can be found tending to my repositories on GitHub with tender loving care, savouring tech 
 videos on Linux and DevOps. 
