@@ -1,18 +1,9 @@
-Old-time developer who have learned many programming languages and technologies from school and work. Far too many to 
-remember every single detail, syntax, runtime library API call since the eon of time. And far too many to become
-proficient in all of them.
-
-As a traditionalist trained in the classical school of *Object-Oriented Programming (OOP)*, 
-I have spent a lifetime with ☕ **Java** since its beginning, which explains my unhealthy fascination with 📚 
-*GoF Design Pattern* &mdash; despite its obsolescence by the 🎛️ *Inversion of Control* &mdash; and tendency for 
-over-engineering to make software modular, reusable and extensible. 
-
-However, new Java language features in recent years that break the original design rules, and the shortcomings of JVM, 
-have caused me to explore newer technologies like Golang.
-
-A strict adherent of 🌉 *cross-platform development* to avoid unnecessary 🔓 vendor lock-in.
-
-I also had a few jobs that took me to the Microsoft's world of **C#, .NET and ASP.NET**.
+# Versatile full-stack developer
+- Oracle Certified Java SE 8 Associate/11 Developer and AWS Certified Solutions Architect/Developer/SysOps Associate
+- Able to develop for common programming including *Java*, *C#*, *Python*, *JavaScript/Node.js* and to lesser extent *C/C++*
+- Able to produce software artifacts from frontend *web apps* and *mobile apps*, to backend *RESTful micro-services* and traditional *SOAP web services* and rich *desktop apps*
+- Experience with using popular frameworks e.g. *Spring Framework*, *Spring Boot*, *ASP.NET*, *Express*
+- Developed software for platforms including *Windows/Linux desktop*, *Android* mobile devices, Web and *Sony PlayStation&reg; 3* video game console
 
 In my free time, I can be found tending to my repositories on GitHub with tender loving care, savouring tech 
 videos on Linux and DevOps. 
@@ -24,6 +15,12 @@ videos on Linux and DevOps.
 [Wolfgang](https://www.youtube.com/@WolfgangsChannel), 
 [Christian Lempa](https://www.youtube.com/@christianlempa) and  
 [Michael Horn](http://www.youtube.com/@MichaelNROH).
+
+# Legal
+*Oracle and Java are registered trademarks of Oracle and/or its affiliates.*  
+*AWS is a mark of Amazon Technologies, Inc.*  
+*Sony, Sony PlayStation, and Sony PlayStation 3 are registered trademarks of Sony Group Corporation.*  
+*Other names may be trademarks of their respective owners.*
 
 <!--
 ### Hi there 👋
