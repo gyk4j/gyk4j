@@ -5,12 +5,12 @@
 | Oracle Certified Java SE 8 Associate          | Java                  | Web Apps               | Spring Framework | Windows                 |
 | Oracle Certified Java SE 11 Developer         | C#                    | Mobile Apps            | Spring Boot      | Linux                   |
 | AWS Certified Solutions Architect, Associate  | JavaScript            | RESTful micro-services | ASP.NET          | Android                 |
-| AWS Certified Developer, Associate            | Python                | SOAP web services      |                  | Web                     |
+| AWS Certified Developer, Associate            | Python                | SOAP web services      | Express          | Web                     |
 | AWS Certified SysOps Administrator, Associate | PHP                   | Desktop Apps           |                  | Sony PlayStation 3&reg; |
 | AWS Certified Cloud Practitioner, Foundation  |                       |                        |                  |                         |
 
-In my free time, I can be found tending to my repositories on GitHub with tender loving care, savouring tech 
-videos on Linux and DevOps. 
+In my free time, I can be found tending to my repositories on GitHub, binging on Linux and DevOps videos.
+
 📺 I am a big fan of: 
 [NetworkChuck](https://www.youtube.com/@NetworkChuck), 
 [Jeff Geerling](https://www.youtube.com/@JeffGeerling), 
