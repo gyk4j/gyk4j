@@ -9,16 +9,7 @@
 | AWS Certified SysOps Administrator, Associate | PHP                   | Desktop Apps           |                  | Sony PlayStation 3&reg; |
 | AWS Certified Cloud Practitioner, Foundation  |                       |                        |                  |                         |
 
-In my free time, I can be found tending to my repositories on GitHub, binging on Linux and DevOps videos.
-
-📺 I am a big fan of: 
-[NetworkChuck](https://www.youtube.com/@NetworkChuck), 
-[Jeff Geerling](https://www.youtube.com/@JeffGeerling), 
-[Jay LaCroix](https://www.youtube.com/@LearnLinuxTV), 
-[Nana Janashia](https://www.youtube.com/@TechWorldwithNana), 
-[Wolfgang](https://www.youtube.com/@WolfgangsChannel), 
-[Christian Lempa](https://www.youtube.com/@christianlempa) and  
-[Michael Horn](http://www.youtube.com/@MichaelNROH).
+In my free time, I maintain my repositories on GitHub, binging on videos discussing Linux, CI/CD and DevOps.
 
 # Legal Notice
 *Microsoft, Windows, C# and ASP.NET are registered trademarks of Microsoft Corporation.*  
