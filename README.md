@@ -1,4 +1,6 @@
-![Move along. There's nothing to see here.](https://github.com/gyk4j/gyk4j/raw/main/nothing-to-see-here.webp "Move along. There's nothing to see here.")
+Move along.
+
+Nothing to see here.
 
 <!--
 ### Hi there 👋
