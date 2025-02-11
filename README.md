@@ -1,11 +1,11 @@
 | **Timeline**        | **Project**                                                               | **Description**                                                                                        |
 | ------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Jan 2025 - Present  | TinyCoreLinux Remaster ^1^                                                | Scripts to rebuild a bootable live Linux environment for hosting portable software.                    |
+| Jan 2025 - Present  | TinyCoreLinux Remaster <sup>1</sup>                                       | Scripts to rebuild a bootable live Linux environment for hosting portable software.                    |
 | Dec 2024            | [mdBook][mdbook], [mkdocs][mkdocs], [Sphinx][sphinx], [docsify][docsify]  | Documentation generators.                                                                              |
-| Aug 2024 - Nov 2024 | [True Original Copy][toc] ^2^                                             | Backup and disaster recovery for Docker services. [React][react] frontend and [Go][go] backend.        |
+| Aug 2024 - Nov 2024 | [True Original Copy][toc] <sup>2</sup>                                    | Backup and disaster recovery for Docker services. [React][react] frontend and [Go][go] backend.        |
 | Oct 2024            | [WindyDNS][windydns]                                                      | Windows DNS that always returns a fixed DNS replies. Written in [Win32 API][winapi] and C.             |
 | Jul 2024 - Aug 2024 | [wsgup][wsgup]                                                            | Wireless@SGx registration [AES-CCM][ccm] credential decryption in 14 programming languages.            |
-| Jun 2024 - Jul 2024 | NSIS, InnoSetup and WiX ^1^                                               | Windows Software installers and packagers.                                                             |
+| Jun 2024 - Jul 2024 | NSIS, InnoSetup and WiX <sup>1</sup>                                      | Windows Software installers and packagers.                                                             |
 | May 2024            | [Chloroform][chcl3]                                                       | Scripts to silence, disable and degrade Microsoft telemetry on Windows 7.                              |
 | Apr 2024            | [Office Starter 2010 Downloader][o2010sd]                                 | PowerShell script ported from [AutoIt][autoit] to download an offline copy of Office Starter 2010.     |
 | Dec 2023 - Mar 2024 | [Wreck.NET][wrecknet]                                                     | C#.NET version of [Wreck][wreck4j]. Uses [exiftool][exiftool], [7-Zip][7z] and [mediainfo][mediainfo]. |
@@ -13,8 +13,8 @@
 | Jun 2023 - Oct 2023 | [Wreck][wreck4j]                                                          | Java tool to restore and repair file timestamps using metadata. Written with Swing GUI.                |
 | Dec 2022 - Jun 2023 | [Wireless On Linux Systems][wols]                                         | Network connection profile configuration tool for Wireless@SG hotspot network on Linux in Java.        |
 
-^1^ Private repository. Source codes unavailable for public viewing.  
-^2^ Incomplete pending rework/redesign.  
+<sup>1</sup> Private repository. Source codes unavailable for public viewing.  
+<sup>2</sup> Incomplete pending rework/redesign.  
 
 [mdbook]: https://github.com/gyk4j/try-mdbook
 [mkdocs]: https://github.com/gyk4j/try-mkdocs
