@@ -1,6 +1,6 @@
 | **Timeline**        | **Project**                                                               | **Description**                                                                                        |
 | ------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Jan 2025 - Present  | TinyCoreLinux Remaster <sup>1</sup>                                       | Scripts to rebuild a bootable live Linux environment for hosting portable software.                    |
+| Jan 2025 - Present  | [TinyCoreLinux Remaster][tinycorelinux-remaster]                          | Scripts to rebuild a bootable live Linux environment for hosting portable software.                    |
 | Dec 2024            | [mdBook][mdbook], [mkdocs][mkdocs], [Sphinx][sphinx], [docsify][docsify]  | Documentation generators.                                                                              |
 | Aug 2024 - Nov 2024 | [True Original Copy][toc] <sup>2</sup>                                    | Backup and disaster recovery for Docker services. [React][react] frontend and [Go][go] backend.        |
 | Oct 2024            | [WindyDNS][windydns]                                                      | Windows DNS that always returns a fixed DNS replies. Written in [Win32 API][winapi] and C.             |
@@ -16,6 +16,7 @@
 <sup>1</sup> Private repository. Source codes unavailable for public viewing.  
 <sup>2</sup> Incomplete pending rework/redesign.  
 
+[tinycorelinux-remaster]: https://github.com/gyk4j/tinycorelinux-remaster
 [mdbook]: https://github.com/gyk4j/try-mdbook
 [mkdocs]: https://github.com/gyk4j/try-mkdocs
 [sphinx]: https://github.com/gyk4j/try-sphinx
