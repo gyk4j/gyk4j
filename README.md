@@ -2,7 +2,7 @@
 | ------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | Mar 2025            | [migrant][migrant]                                                        | A simplified, lightweight and portable Bash/Batch/PowerShell alternative for Vagrant.                  |
 | Feb 2025            | [libc7zip][libc7zip]                                                      | C/C++ binding wrapper for 7-Zip without callbacks. Required by [sevenzip-go][sevenzip-go].             |
-| Jan 2025 - Feb 2025 | [TinyCoreLinux Remaster][tinycorelinux-remaster]                          | Scripts to rebuild a bootable live Linux environment for hosting portable software.                    |
+| Jan 2025 - Feb 2025 | [TinyCoreLinux Book][tinycorelinux-book]                                  | Example scripts to remaster Tiny Core Linux from "Into the Core: A Look at Tiny Core Linux" book.      |
 | Dec 2024            | [mdBook][mdbook], [mkdocs][mkdocs], [Sphinx][sphinx], [docsify][docsify]  | Documentation/static page generators.                                                                  |
 | Aug 2024 - Nov 2024 | [True Original Copy][toc] <sup>1</sup>                                    | Backup and disaster recovery for Docker services. [React][react] frontend and [Go][go] backend.        |
 | Oct 2024            | [WindyDNS][windydns]                                                      | Windows DNS that always returns a fixed DNS replies. Written in [Win32 API][winapi] and C.             |
