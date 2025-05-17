@@ -21,7 +21,7 @@
 [migrant]: https://github.com/gyk4j/migrant
 [libc7zip]: https://github.com/gyk4j/libc7zip
 [sevenzip-go]: https://pkg.go.dev/github.com/itchio/sevenzip-go
-[tinycorelinux-remaster]: https://github.com/gyk4j/tinycorelinux-remaster
+[tinycorelinux-book]: https://github.com/gyk4j/tinycorelinux-book
 [mdbook]: https://github.com/gyk4j/try-mdbook
 [mkdocs]: https://github.com/gyk4j/try-mkdocs
 [sphinx]: https://github.com/gyk4j/try-sphinx
