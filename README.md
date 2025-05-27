@@ -1,13 +1,14 @@
 | Timeline            | Project                                                                   | Description                                                                                            |
 | ------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Mar 2025            | [migrant][migrant]                                                        | A simplified, lightweight and portable Bash/Batch/PowerShell alternative for Vagrant.                  |
+| May 2025 - Current  | [car][car] <sup>1</sup>                                                   | Crop and Resize tool for bulk operations in a folder/directory. Written in Python and tested in Win64. |
+| Mar 2025 - Current  | [migrant][migrant] <sup>1</sup>                                           | A simplified, lightweight and portable Bash/Batch/PowerShell alternative for Vagrant.                  |
 | Feb 2025            | [libc7zip][libc7zip]                                                      | C/C++ binding wrapper for 7-Zip without callbacks. Required by [sevenzip-go][sevenzip-go].             |
 | Jan 2025 - Feb 2025 | [TinyCoreLinux Book][tinycorelinux-book]                                  | Example scripts to remaster Tiny Core Linux from "Into the Core: A Look at Tiny Core Linux" book.      |
 | Dec 2024            | [mdBook][mdbook], [mkdocs][mkdocs], [Sphinx][sphinx], [docsify][docsify]  | Documentation/static page generators.                                                                  |
-| Aug 2024 - Nov 2024 | [True Original Copy][toc] <sup>1</sup>                                    | Backup and disaster recovery for Docker services. [React][react] frontend and [Go][go] backend.        |
+| Aug 2024 - Nov 2024 | [True Original Copy][toc] <sup>2</sup>                                    | Backup and disaster recovery for Docker services. [React][react] frontend and [Go][go] backend.        |
 | Oct 2024            | [WindyDNS][windydns]                                                      | Windows DNS that always returns a fixed DNS replies. Written in [Win32 API][winapi] and C.             |
 | Jul 2024 - Aug 2024 | [wsgup][wsgup]                                                            | Wireless@SGx registration [AES-CCM][ccm] credential decryption in 14 programming languages.            |
-| Jun 2024 - Jul 2024 | [NSIS][nsis], [Inno Setup][innosetup] and [WiX Toolset][wix] <sup>2</sup> | Windows software installers and packagers.                                                             |
+| Jun 2024 - Jul 2024 | [NSIS][nsis], [Inno Setup][innosetup] and [WiX Toolset][wix] <sup>3</sup> | Windows software installers and packagers.                                                             |
 | May 2024            | [Chloroform][chcl3]                                                       | Scripts to silence, disable and degrade Microsoft telemetry on Windows 7.                              |
 | Apr 2024            | [Office Starter 2010 Downloader][o2010sd]                                 | PowerShell script ported from [AutoIt][autoit] to download an offline copy of Office Starter 2010.     |
 | Dec 2023 - Mar 2024 | [Wreck.NET][wrecknet]                                                     | C#.NET version of [Wreck][wreck4j]. Uses [exiftool][exiftool], [7-Zip][7z] and [MediaInfo][mediainfo]. |
@@ -15,9 +16,11 @@
 | Jun 2023 - Oct 2023 | [Wreck][wreck4j]                                                          | Java tool to restore and repair file timestamps using metadata. Uses Swing GUI.                        |
 | Dec 2022 - Jun 2023 | [Wireless On Linux Systems][wols]                                         | Network connection profile configuration tool for Wireless@SG hotspot network on Linux in Java.        |
 
-<sup>1</sup> Incomplete pending rework/redesign.  
-<sup>2</sup> Private repository. Source codes unavailable for public viewing.  
+<sup>1</sup> Under active development. 
+<sup>2</sup> Incomplete but inactive pending future work.  
+<sup>3</sup> Private repository. Source codes unavailable for public viewing.  
 
+[car]: https://github.com/gyk4j/car
 [migrant]: https://github.com/gyk4j/migrant
 [libc7zip]: https://github.com/gyk4j/libc7zip
 [sevenzip-go]: https://pkg.go.dev/github.com/itchio/sevenzip-go
