@@ -2,10 +2,11 @@
 
 | Time                | Project                                                 | Technologies                | Status            |
 | :------------------ | :------------------------------------------------------ | :-------------------------- | :---------------- |
-| May 2025 - Current  | [carrot][17]                                            | Python                      | Under development |
-| Mar 2025 - Current  | [migrant][16]                                           | Bash, Batch, PowerShell     | Under development |
-| Feb 2025            | [libc7zip][15]                                          | C/C++                       | Completed         |
-| Jan 2025 - Feb 2025 | [TinyCoreLinux Book][14]                                | Bash                        | Completed         |
+| May 2025 - Current  | [carrot][18]                                            | Python                      | Under development |
+| Mar 2025 - Current  | [migrant][17]                                           | Bash, Batch, PowerShell     | Under development |
+| Feb 2025            | [libc7zip][16]                                          | C/C++                       | Completed         |
+| Jan 2025 - Feb 2025 | [TinyCoreLinux Book][15]                                | Bash                        | Completed         |
+| Dec 2024            | [Terraform Tutorials][14]                               | Terraform                   | Completed         |
 | Dec 2024            | [mdBook][10], [mkdocs][11], [Sphinx][12], [docsify][13] | Markdown, rST               | Completed         |
 | Aug 2024 - Nov 2024 | [True Original Copy][9]                                 | JavaScript, Go              | Inactive          |
 | Oct 2024            | [WindyDNS][8]                                           | C                           | Completed         |
@@ -13,25 +14,25 @@
 | Jun 2024 - Jul 2024 | NSIS, Inno Setup and WiX software packaging             | NSIS, Inno Setup, XML       | Completed         |
 | May 2024            | [Chloroform][6]                                         | Batch, VBScript, PowerShell | Completed         |
 | Apr 2024            | [Office Starter 2010 Downloader][5]                     | PowerShell                  | Completed         |
-| Dec 2023 - Mar 2024 | [Wreck.NET][4]                                          | C#                          | Completed         |
+| Dec 2023 - Mar 2024 | [Wreck.NET][4]                                          | C# / WinForms               | Completed         |
 | Nov 2023 - Dec 2023 | [Personal Website: gyk4j.github.io][3]                  | HTML                        | Completed         |
-| Jun 2023 - Oct 2023 | [Wreck][2]                                              | Java                        | Completed         |
-| Dec 2022 - Jun 2023 | [Wireless On Linux Systems][1]                          | Java                        | Completed         |
+| Jun 2023 - Oct 2023 | [Wreck][2]                                              | Java / Swing                | Completed         |
+| Dec 2022 - Jun 2023 | [Wireless On Linux Systems][1]                          | Java / Swing                | Completed         |
 
 <!--
-#### May 2025 - Current / [carrot][17] / Python
+#### May 2025 - Current / [carrot][18] / Python
 - Crop and Resize and ROTation tool for bulk operations in a folder/directory.
 - Packaged and tested in Win64.
 
 
-#### Mar 2025 - Current / [migrant][16] / Bash, Batch, PowerShell
+#### Mar 2025 - Current / [migrant][17] / Bash, Batch, PowerShell
 - A simplified, lightweight and portable alternative for Vagrant.
 
-#### Feb 2025 / [libc7zip][15] / C/C++
+#### Feb 2025 / [libc7zip][16] / C/C++
 - Forked binding wrapper for 7-Zip without callbacks.
 - Required by [sevenzip-go][sevenzip-go].
 
-#### Jan 2025 - Feb 2025 / [TinyCoreLinux Book][14] / Bash
+#### Jan 2025 - Feb 2025 / [TinyCoreLinux Book][15] / Bash
 - Example scripts to remaster Tiny Core Linux from "Into the Core: A Look at 
 Tiny Core Linux" book.
 
@@ -71,11 +72,12 @@ Tiny Core Linux" book.
 - Network connection profile configuration tool for [Wireless@SG][wsg] hotspot network on Linux in Java.
 -->
 
-[17]: https://github.com/gyk4j/carrot
-[16]: https://github.com/gyk4j/migrant
-[15]: https://github.com/gyk4j/libc7zip
+[18]: https://github.com/gyk4j/carrot
+[17]: https://github.com/gyk4j/migrant
+[16]: https://github.com/gyk4j/libc7zip
 [sevenzip-go]: https://pkg.go.dev/github.com/itchio/sevenzip-go
-[14]: https://github.com/gyk4j/tinycorelinux-book
+[15]: https://github.com/gyk4j/tinycorelinux-book
+[14]: https://github.com/gyk4j/terraform-tutorials
 [13]: https://github.com/gyk4j/try-docsify
 [12]: https://github.com/gyk4j/try-sphinx
 [11]: https://github.com/gyk4j/try-mkdocs
