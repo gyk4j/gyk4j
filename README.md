@@ -2,6 +2,7 @@
 
 | Time                | Project                                                 | Technologies                | Status            |
 | :------------------ | :------------------------------------------------------ | :-------------------------- | :---------------- |
+| Jul 2025 - Current  | [vue-app][19]                                           | JavaScript, Vue             | Under development |
 | May 2025 - Current  | [carrot][18]                                            | Python                      | Under development |
 | Mar 2025 - Current  | [migrant][17]                                           | Bash, Batch, PowerShell     | Under development |
 | Feb 2025            | [libc7zip][16]                                          | C/C++                       | Completed         |
@@ -72,6 +73,7 @@ Tiny Core Linux" book.
 - Network connection profile configuration tool for [Wireless@SG][wsg] hotspot network on Linux in Java.
 -->
 
+[19]: https://github.com/gyk4j/vue-app
 [18]: https://github.com/gyk4j/carrot
 [17]: https://github.com/gyk4j/migrant
 [16]: https://github.com/gyk4j/libc7zip
