@@ -74,7 +74,7 @@ Tiny Core Linux" book.
 - Network connection profile configuration tool for [Wireless@SG][wsg] hotspot network on Linux in Java.
 -->
 
-[20]: https://github/gyk4j/ddd
+[20]: https://github.com/gyk4j/ddd
 [19]: https://github.com/gyk4j/vue-app
 [18]: https://github.com/gyk4j/carrot
 [17]: https://github.com/gyk4j/migrant
