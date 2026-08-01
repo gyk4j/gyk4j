@@ -2,6 +2,7 @@
 
 | Time                | Project                                                 | Technologies                | CI/CD                                                                                                                                                                     |
 | :------------------ | :------------------------------------------------------ | :-------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Aug 2026 - Present  | [ddd][20]                                               | Python                      | N/A                                                                                                                                                                       |
 | Jul 2025 - Aug 2025 | [vue-app][19]                                           | JavaScript, Vue             | ![Vue](https://github.com/gyk4j/vue-app/actions/workflows/build.yml/badge.svg)                                                                                            |
 | May 2025 - Current  | [carrot][18]                                            | Python                      | ![Python](https://github.com/gyk4j/carrot/actions/workflows/python-app.yml/badge.svg)                                                                                     |
 | Mar 2025 - Aug 2025 | [migrant][17]                                           | Go                          | ![Go](https://github.com/gyk4j/migrant/actions/workflows/go.yml/badge.svg)                                                                                                |
@@ -73,6 +74,7 @@ Tiny Core Linux" book.
 - Network connection profile configuration tool for [Wireless@SG][wsg] hotspot network on Linux in Java.
 -->
 
+[20]: https://github/gyk4j/ddd
 [19]: https://github.com/gyk4j/vue-app
 [18]: https://github.com/gyk4j/carrot
 [17]: https://github.com/gyk4j/migrant
